@@ -4,3 +4,5 @@
 - I reached typing speed of 130 wpm from 0 wpm on MonkeyType using the layout in just 10 months. (current 157 wpm)
 - You can find my experience and thoughts on this new layout here: https://forum.colemak.com/topic/2954-my-expereince-after-typing-colemakdhk-for-about-10-months/#p25003
 - My MonkeyType Profile: https://monkeytype.com/profile/ShadowsCreed
+- My Layout.exe contains Colemak DHk with (V - G, C - F keys swapped).
+- New Layout.exe contains Colemak DHk with (V - G, C - F, ' - ; keys swapped).
